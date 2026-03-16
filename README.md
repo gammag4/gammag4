@@ -1,4 +1,6 @@
 <div align="center">
+  <p>Se chegou aqui agora, volte mais tarde, estou arrumando esse README agora mesmo 😎😎</p>
+
   <h1>Hey, I'm Gabriel Maia</h1>
 
 | English | [Português](README_PT.md) |
@@ -25,14 +27,17 @@
 
 ---
 
-<a href="<https://www.artstation.com/artwork/3dzme2"><img align="right" width="50%" src="resources/cover.gif" /></a>
+<a href="https://www.artstation.com/artwork/3dzme2"><img align="right" width="50%" src="resources/cover.gif" /></a>
 <!-- <img align="right" width="50%" src="resources/canga_cero.gif" /> -->
 
 Lorem ipsum dolor sit amet
 
-|||
-|:---:|:---:|
-| ![Gabriel Maia's GitHub stats](https://github-readme-stats.vercel.app/api?username=gammag4&show_icons=true&theme=dark) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gammag4&layout=compact&theme=dark&langs_count=10) |
+<br>
+
+<div>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=gammag4&show_icons=true&theme=dark" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gammag4&layout=compact&theme=dark&langs_count=10" />
+</div>
 
 <!-- |||
 |:---:|:---:|
@@ -44,12 +49,20 @@ Lorem ipsum dolor sit amet
 | ![Trabalho ML Pin](https://github-readme-stats.vercel.app/api/pin/?username=gammag4&repo=trabalho-ml2023&theme=dark&description_lines_count=3) | a |
 | ![Disciplina ML Pin](https://github-readme-stats.vercel.app/api/pin/?username=gammag4&repo=ML2023-GabrielMaiaGondim&theme=dark&description_lines_count=3) | a | -->
 
-|||
-|:---:|:---:|
-| ![DVST Pin](https://github-readme-stats.vercel.app/api/pin/?username=gammag4&repo=dvst&theme=dark&description_lines_count=3) | ![NN Image Pin](https://github-readme-stats.vercel.app/api/pin/?username=gammag4&repo=nn-image&theme=dark&description_lines_count=3) |
-| ![Keyboard Layout Optimizer Pin](https://github-readme-stats.vercel.app/api/pin/?username=gammag4&repo=keybLayoutOptimizer&theme=dark&description_lines_count=3) | ![Pistoleiro Paco Pin](https://github-readme-stats.vercel.app/api/pin/?username=gammag4&repo=PistoleiroPaco&theme=dark&description_lines_count=3) |
-| ![New Home Pin](https://github-readme-stats.vercel.app/api/pin/?username=gammag4&repo=NewHome&theme=dark&description_lines_count=3) | ![Cuscuz Bane Pin](https://github-readme-stats.vercel.app/api/pin/?username=gammag4&repo=CuscuzBane&theme=dark&description_lines_count=3) |
-| ![Trabalho ML Pin](https://github-readme-stats.vercel.app/api/pin/?username=gammag4&repo=trabalho-ml2023&theme=dark&description_lines_count=3) | ![Disciplina ML Pin](https://github-readme-stats.vercel.app/api/pin/?username=gammag4&repo=ML2023-GabrielMaiaGondim&theme=dark&description_lines_count=3) |
+<!-- 
+<div>
+  <a href="https://github.com/gammag4/dvst"><img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=gammag4&repo=dvst&theme=dark&description_lines_count=3"></a>
+  <a href="https://github.com/gammag4/nn-image"><img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=gammag4&repo=nn-image&theme=dark&description_lines_count=3"></a>
+
+  <a href="https://github.com/gammag4/keybLayoutOptimizer"><img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=gammag4&repo=keybLayoutOptimizer&theme=dark&description_lines_count=3"></a>
+  <a href="https://github.com/gammag4/PistoleiroPaco"><img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=gammag4&repo=PistoleiroPaco&theme=dark&description_lines_count=3"></a>
+
+  <a href="https://github.com/gammag4/NewHome"><img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=gammag4&repo=NewHome&theme=dark&description_lines_count=3"></a>
+  <a href="https://github.com/gammag4/CuscuzBane"><img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=gammag4&repo=CuscuzBane&theme=dark&description_lines_count=3"></a>
+
+  <a href="https://github.com/gammag4/trabalho-ml2023"><img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=gammag4&repo=trabalho-ml2023&theme=dark&description_lines_count=3"></a>
+  <a href="https://github.com/gammag4/ML2023-GabrielMaiaGondim"><img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=gammag4&repo=ML2023-GabrielMaiaGondim&theme=dark&description_lines_count=3"></a>
+</div> -->
 
 <!-- |||
 |:---:|:---:|
@@ -61,19 +74,3 @@ Lorem ipsum dolor sit amet
 | ![Keyboard Layout Optimizer Pin](./resources/pin-keybLayoutOptimizer.svg) | ![Pistoleiro Paco Pin](./resources/pin-PistoleiroPaco.svg) |
 | ![New Home Pin](./resources/pin-NewHome.svg) | ![Cuscuz Bane Pin](./resources/pin-CuscuzBane.svg) |
 | ![Trabalho ML 2023 Pin](./resources/pin-trabalho-ml2023.svg) | ![Disciplina ML 2023 Pin](./resources/pin-ML2023-GabrielMaiaGondim.svg) | -->
-
-<style>
-  table, th, td {
-    border: none !important;
-    border-collapse: collapse !important;
-  }
-  td {
-    height: 100%;
-  }
-  /* table {
-    width: 100% !important;
-  }
-  th, td {
-    width: 50% !important;
-  } */
-</style>
