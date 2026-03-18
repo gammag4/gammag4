@@ -28,11 +28,12 @@
 <a href="https://www.artstation.com/artwork/3dzme2"><img align="right" width="40%" src="resources/cover.gif" /></a>
 <!-- <img align="right" width="50%" src="resources/canga_cero.gif" /> -->
 
-- 👨🏽‍💻 I am a Neural Networks and Computer Vision developer with strong foundations in math, algorithms and engineering and a professional learner
-- 🔍 I am currently looking for opportunities
+- 👨🏽‍💻 I am a Neural Networks and Computer Vision developer with strong foundations in math, algorithms and engineering, and a professional learner
+- 🔍 I am currently looking for job opportunities
 - 📚 I like math, circuits, robots, piano, phylosophy, legos, exploration/procedural games and other stuff
-<!--
-- 💻 Full-stack developer with experience across web, mobile and embedded systems -->
+<!-- - 💻 Full-stack developer with experience across web, mobile and embedded systems -->
+
+<!-- Full list with my skills and capabilities [here](Skills.md). -->
 
 ### Tech Stack
 
@@ -54,12 +55,6 @@
 - **Machine Learning:** Regression, classification, clustering, dimensionality reduction, ensemble methods
 - **Math:** Linear algebra, calculus, probability & statistics, differential equations, signals & systems
 - **Software Engineering:** Agile (XP, Scrum, Kanban), SOLID, Clean Architecture, REST APIs, unit testing
-
-### Currently Learning
-
-- Abstract Algebra (Vinberg)
-- Topology (Munkres)
-- Control Theory
 
 ---
 
