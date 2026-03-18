@@ -30,7 +30,7 @@
 
 - 👨🏽‍💻 I am a Neural Networks and Computer Vision developer with strong foundations in math, algorithms and engineering, and a professional learner
 - 🔍 I am currently looking for job opportunities
-- 📚 I like math, circuits, robots, piano, phylosophy, legos, exploration/procedural games and other stuff
+<!-- - 📚 I like math, circuits, robots, piano, phylosophy, legos, exploration/procedural games and other stuff -->
 <!-- - 💻 Full-stack developer with experience across web, mobile and embedded systems -->
 
 <!-- Full list with my skills and capabilities [here](Skills.md). -->

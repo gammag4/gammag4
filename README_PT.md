@@ -16,7 +16,7 @@
 
 - 👨‍💻 Sou um desenvolvedor de Redes Neurais e Visão Computacional com forte base em matemática, algoritmos e engenharia, e sou um autodidata profissional
 - 🔍 Atualmente buscando oportunidades de emprego
-- 📚 Gosto de matemática, circuitos, robôs, piano, filosofia, legos, jogos de exploração/procedurais e outras coisas
+<!-- - 📚 Gosto de matemática, circuitos, robôs, piano, filosofia, legos, jogos de exploração/procedurais e outras coisas -->
 <!-- - 💻 Desenvolvedor fullstack com experiência em web, mobile e sistemas embarcados -->
 
 <!-- Lista completa dos meus conhecimentos [aqui](Skills_PT.md). -->
