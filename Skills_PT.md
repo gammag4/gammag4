@@ -4,29 +4,21 @@
 
 Sou Gabriel Maia Gondim, estou cursando Engenharia de Software na Universidade Federal do Ceará<!-- , e estou buscando ingressar na área de visão computacional -->. Aqui detalho um pouco de tudo que estudei e usei, seja em projetos da faculdade ou extra-curriculares.
 
-Redes neurais:
+Visão Computacional, Redes Neurais, Aprendizado de Máquina e Processamento de Imagens:
 
-- Em redes neurais, usei e estudei várias arquiteturas de redes, desde MLPs simples, RNNs, LSTMs, Autoencoders, redes transformer, LLMs e outras arquiteturas;
-- Também estudei sobre aprendizado por reforço e sobre Q-Learning usando redes neurais;
-- Estudei também sobre várias técnicas para melhorar a eficiência, robustez e a capacidade de generalização de redes, como padronização dos dados, normalização, regularização, redes residuais, dropout, etc;
-- Também vi sobre o uso de redes já treinadas para tarefas especializadas com transfer learning ou fine tuning;
-- Tecnologias: Para implementação, usei principalmente PyTorch e TensorFlow Keras em Python, tanto para criar modelos quanto para modificar modelos existentes.
-
-Visão computacional:
-
-- Em visão computacional, estudei e usei tanto algoritmos tradicionais de aprendizado de máquina como também algumas redes neurais interessantes (CNNs (como AlexNet, ResNet e VGG-16), NeRFs, Vision Transformers e LVSM).
-- Mexi com problemas de detecção de objetos/faces, reconhecimento facial, classificação, OCR, e outros;
-- Tecnologias: Usei principalmente OpenCV, DLib e PyTorch em Python.
-
-Processamento de imagens:
-
-- Usei e estudei sobre filtragem espacial de imagens usando transformações de intensidade, histograma, e filtros lineares (ex filtro gaussiano ou outros convolucionais) e não lineares (ex. filtro bilateral), filtragem espectral (usando filtros no domínio da frequência), e fiz análise de imagens e extração de características usando outras transformadas como wavelets;
-- Tecnologias: Usei principalmente OpenCV e NumPy em Python, e Matlab.
-
-Aprendizado de máquina:
-
-- Algoritmos estudados e usados: Regressão linear, polinomial e logística, classificação binária, KNN, árvores de decisão, algoritmos de ensemble learning como random forests ou boosted trees, usei algoritmos de clusterização como K-means clustering e DBSCAN, algoritmos de redução de dimensionalidade como PCA, e algoritmos meta-heurísticos como simulated annealing;
-- Tecnologias: Usei especialmente Scikit-Learn em Python e outras bibliotecas que implementam algoritmos no topo desta, para simulated annealing, eu alterei um código existente em Julia, otimizando e especializando ele para minhas necessidades.
+- Redes neurais: Usei e estudei várias arquiteturas de redes, desde MLPs simples, RNNs, LSTMs, Autoencoders, redes transformer, LLMs e outras arquiteturas;
+  - Também estudei sobre aprendizado por reforço e sobre Q-Learning usando redes neurais;
+  - Estudei também sobre várias técnicas para melhorar a eficiência, robustez e a capacidade de generalização de redes, como padronização dos dados, normalização, regularização, redes residuais, dropout, etc;
+  - Também vi sobre o uso de redes já treinadas para tarefas especializadas com transfer learning ou fine tuning;
+- Visão computacional: Usei e estudei tanto algoritmos tradicionais de aprendizado de máquina como também algumas redes neurais interessantes (CNNs (como AlexNet, ResNet e VGG-16), NeRFs, Vision Transformers e LVSM).
+- Processamento de imagens: Usei e estudei sobre filtragem espacial de imagens usando transformações de intensidade, histograma, e filtros lineares (ex filtro gaussiano ou outros convolucionais) e não lineares (ex. filtro bilateral), filtragem espectral (usando filtros no domínio da frequência), e fiz análise de imagens e extração de características usando outras transformadas como wavelets;
+- Aprendizado de máquina clássico: Usei e estudei regressão linear, polinomial e logística, classificação binária, KNN, árvores de decisão, algoritmos de ensemble learning como random forests ou boosted trees, usei algoritmos de clusterização como K-means clustering e DBSCAN, algoritmos de redução de dimensionalidade como PCA, e algoritmos meta-heurísticos como simulated annealing;
+- Problemas principais: Detecção de objetos/faces/gestos, reconhecimento facial, OCR, clustering, classificação, regressão, redução de dimensionalidade, 3D novel view synthesis
+- Tecnologias principais:
+  - Redes Neurais: PyTorch e TensorFlow Keras em Python, tanto para criar modelos quanto para modificar modelos existentes.
+  - Visão computacional/processamento de imagens: OpenCV, DLib e PyTorch em Python.
+  - Aprendizado de Máquina: Scikit-Learn em Python e outras bibliotecas que implementam algoritmos no topo desta.
+  - Outras: NumPy, SciPy, Pandas
 
 Armazenamento e tratamento de dados:
 

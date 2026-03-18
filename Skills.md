@@ -4,29 +4,21 @@
 
 I am Gabriel Maia Gondim, a Software Engineering student at the Federal University of Ceará<!-- , and I am seeking to enter the field of computer vision -->. Here I detail a bit of everything I have studied and used, whether in academic projects or extracurricular activities.
 
-Neural networks:
+Computer Vision, Neural Networks, Machine Learning and Image Processing:
 
-- In neural networks, I have used and studied various network architectures, from simple MLPs, RNNs, LSTMs, Autoencoders, transformer networks, LLMs and other architectures;
-- I also studied reinforcement learning and Q-Learning using neural networks;
-- I also studied various techniques to improve the efficiency, robustness and generalization capability of networks, such as data standardization, normalization, regularization, residual networks, dropout, etc;
-- I also learned about using pre-trained networks for specialized tasks with transfer learning or fine tuning;
-- Technologies: For implementation, I mainly used PyTorch and TensorFlow Keras in Python, both for creating models and for modifying existing models.
-
-Computer vision:
-
-- In computer vision, I have studied and used both traditional machine learning algorithms and some interesting neural networks (CNNs (such as AlexNet, ResNet and VGG-16), NeRFs, Vision Transformers and LVSM).
-- I worked on object/face detection problems, facial recognition, classification, OCR, and others;
-- Technologies: I mainly used OpenCV, DLib and PyTorch in Python.
-
-Image processing:
-
-- I used and studied spatial image filtering using intensity transformations, histograms, and linear filters (e.g. Gaussian filter or other convolutional filters) and non-linear filters (e.g. bilateral filter), spectral filtering (using filters in the frequency domain), and performed image analysis and feature extraction using other transforms such as wavelets;
-- Technologies: I mainly used OpenCV and NumPy in Python, and Matlab.
-
-Machine learning:
-
-- Algorithms studied and used: Linear, polynomial and logistic regression, binary classification, KNN, decision trees, ensemble learning algorithms such as random forests or boosted trees, I used clustering algorithms such as K-means clustering and DBSCAN, dimensionality reduction algorithms such as PCA, and metaheuristic algorithms such as simulated annealing;
-- Technologies: I especially used Scikit-Learn in Python and other libraries that implement algorithms on top of it, for simulated annealing, I modified existing code in Julia, optimizing and specializing it for my needs.
+- Neural networks: I used and studied various network architectures, from simple MLPs, RNNs, LSTMs, Autoencoders, transformer networks, LLMs and other architectures;
+  - I also studied reinforcement learning and Q-Learning using neural networks;
+  - I also studied various techniques to improve network efficiency, robustness and generalization capability, such as data standardization, normalization, regularization, residual networks, dropout, etc;
+  - I also studied about using pre-trained networks for specialized tasks with transfer learning or fine tuning;
+- Computer vision: I used and studied both traditional machine learning algorithms and some interesting neural networks (CNNs (such as AlexNet, ResNet and VGG-16), NeRFs, Vision Transformers and LVSM).
+- Image processing: I used and studied spatial image filtering using intensity transformations, histograms, and linear filters (e.g. Gaussian filter or other convolutional) and non-linear filters (e.g. bilateral filter), spectral filtering (using filters in the frequency domain), and performed image analysis and feature extraction using other transforms such as wavelets;
+- Classical machine learning: I used and studied linear, polynomial and logistic regression, binary classification, KNN, decision trees, ensemble learning algorithms such as random forests or boosted trees, I used clustering algorithms such as K-means clustering and DBSCAN, dimensionality reduction algorithms such as PCA, and meta-heuristic algorithms such as simulated annealing;
+- Main problems: Object/face/gesture detection, facial recognition, OCR, clustering, classification, regression, dimensionality reduction, 3D novel view synthesis
+- Main technologies:
+  - Neural Networks: PyTorch and TensorFlow Keras in Python, both for creating models and for modifying existing models.
+  - Computer vision/image processing: OpenCV, DLib and PyTorch in Python.
+  - Machine Learning: Scikit-Learn in Python and other libraries that implement algorithms on top of it.
+  - Other: NumPy, SciPy, Pandas
 
 Data storage and processing:
 
