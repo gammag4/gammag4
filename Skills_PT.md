@@ -2,12 +2,7 @@
 
 | [English](Skills.md) | Português |
 
-Sou Gabriel Maia Gondim, estou cursando Engenharia de Software na Universidade Federal do Ceará, e estou buscando ingressar na área de visão computacional. Aqui detalho um pouco de tudo que estudei e usei, seja em projetos da faculdade ou extra-curriculares.
-
-Dos algoritmos citados abaixo, estudei a implementação e usei praticamente todos, fazendo minha própria implementação de alguns para aprender mais sobre o funcionamento destes.
-Também estudei e busquei entender os princípios matemáticos por trás do funcionamento destes algoritmos (especialmente dos algoritmos de redes neurais), então tenho fortes conhecimentos matemáticos (estatística, álgebra, etc).
-
-Tenho costume de ler artigos e livros, especialmente do lado de redes neurais e matemática, que são os lados que mais tenho interesse.
+Sou Gabriel Maia Gondim, estou cursando Engenharia de Software na Universidade Federal do Ceará<!-- , e estou buscando ingressar na área de visão computacional -->. Aqui detalho um pouco de tudo que estudei e usei, seja em projetos da faculdade ou extra-curriculares.
 
 Redes neurais:
 
@@ -75,4 +70,5 @@ Outros:
 - Tenho experiência com Figma;
 - Tenho experiência com testes em Java (jUnit e Mockito) e testes com corrotinas em Kotlin (jUnit e MockK);
 - Outros conhecimentos: Rust, C, C++, Haskell, Java (Swing e AWT), Electron (JS) e Jenkins;
+- Experiência em leitura de artigos técnicos, especialmente nas áreas de redes neurais, algoritmos, computação e matemática;
 - Inglês proficiente, certificado [aqui](https://cert.efset.org/amh3vn).
