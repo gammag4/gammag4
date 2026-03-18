@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Opa, Gabriel Maia aqui</h1>
 
-  | [English](https://github.com/gammag4) | Português |
+| [English](https://github.com/gammag4) | Português |
 </div>
 
 <div align="center">
@@ -46,5 +46,5 @@
 
 <div>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=gammag4&show_icons=true&theme=dark" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gammag4&layout=compact&theme=dark&langs_count=10" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gammag4&layout=compact&theme=dark&langs_count=20" />
 </div>

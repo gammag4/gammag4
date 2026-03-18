@@ -55,12 +55,27 @@
 - **Machine Learning:** Regression, classification, clustering, dimensionality reduction, ensemble methods
 - **Math:** Linear algebra, calculus, probability & statistics, differential equations, signals & systems
 - **Software Engineering:** Agile (XP, Scrum, Kanban), SOLID, Clean Architecture, REST APIs, unit testing
+<!-- 
+## Estudando Atualmente
+
+- Control Theory, with focus on state-space representation of linearized systems;
+- Álgebra moderna/abstrata (lendo [Vinberg - A Course in Algebra](https://www.amazon.com/Course-Algebra-B-Vinberg/dp/0821834134));
+- Topologia (lendo [Munkres - Topology](https://www.amazon.com/Topology-2nd-James-Munkres/dp/0131816292));
+- Análise (lendo [Rudin - Principles of Mathematical Analysis](https://www.amazon.com/Principles-Mathematical-Analysis-International-Mathematics/dp/007054235X)). -->
+
+<!-- <div align="center">
+  <strong>
+    <i>
+      "Faça as perguntas corretas, e você terá as respostas que precisa. Faça as perguntas erradas, e você será consumido por mentiras confortantes."
+    </i>
+  <strong>
+</div> -->
 
 ---
 
 <div>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=gammag4&show_icons=true&theme=dark" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gammag4&layout=compact&theme=dark&langs_count=10" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gammag4&layout=compact&theme=dark&langs_count=20" />
 </div>
 
 <!-- |||
