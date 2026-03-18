@@ -11,12 +11,12 @@ Visão Computacional, Redes Neurais, Aprendizado de Máquina e Processamento de 
   - Estudei também sobre várias técnicas para melhorar a eficiência, robustez e a capacidade de generalização de redes, como padronização dos dados, normalização, regularização, redes residuais, dropout, etc
   - Também vi sobre o uso de redes já treinadas para tarefas especializadas com transfer learning ou fine tuning
 - Visão computacional: Usei e estudei tanto algoritmos tradicionais de aprendizado de máquina como também algumas redes neurais interessantes (CNNs (como AlexNet, ResNet e VGG-16), NeRFs, Vision Transformers e LVSM)
-- Processamento de imagens: Usei e estudei sobre filtragem espacial de imagens usando transformações de intensidade, histograma, e filtros lineares (ex filtro gaussiano ou outros convolucionais) e não lineares (ex. filtro bilateral), filtragem espectral (usando filtros no domínio da frequência), e fiz análise de imagens e extração de características usando outras transformadas como wavelets
+- Processamento de imagens/Vídeo: Usei e estudei sobre filtragem espacial de imagens usando transformações de intensidade, histograma, e filtros lineares (ex filtro gaussiano ou outros convolucionais) e não lineares (ex. filtro bilateral), filtragem espectral (usando filtros no domínio da frequência), e fiz análise de imagens e extração de características usando outras transformadas como wavelets
 - Aprendizado de máquina clássico: Usei e estudei regressão linear, polinomial e logística, classificação binária, KNN, árvores de decisão, algoritmos de ensemble learning como random forests ou boosted trees, usei algoritmos de clusterização como K-means clustering e DBSCAN, algoritmos de redução de dimensionalidade como PCA, e algoritmos meta-heurísticos como simulated annealing
 - Problemas principais: Detecção de objetos/faces/gestos, reconhecimento facial, OCR, clustering, classificação, regressão, redução de dimensionalidade, 3D novel view synthesis
 - Tecnologias principais:
   - Redes Neurais: PyTorch e TensorFlow Keras em Python, tanto para criar modelos quanto para modificar modelos existentes
-  - Visão computacional/processamento de imagens: OpenCV, DLib e PyTorch em Python
+  - Visão computacional/processamento de imagens: OpenCV, DLib e PyTorch em Python, FFmpeg
   - Aprendizado de Máquina: Scikit-Learn em Python e outras bibliotecas que implementam algoritmos no topo desta
   - Outras: NumPy, SciPy, Pandas
 

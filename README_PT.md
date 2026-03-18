@@ -14,7 +14,7 @@
 <a href="https://www.artstation.com/artwork/3dzme2"><img align="right" width="40%" src="resources/cover.gif" /></a>
 <!-- <img align="right" width="50%" src="resources/canga_cero.gif" /> -->
 
-- 👨‍💻 Sou um desenvolvedor de Redes Neurais e Visão Computacional com forte base em matemática, algoritmos e engenharia, e sou um autodidata profissional
+- 👨‍💻 Sou um desenvolvedor especializado em Redes Neurais, Visão Computacional e Processamento de Imagens/Vídeo com forte base em matemática, algoritmos e engenharia, e sou um autodidata profissional
 - 🔍 Atualmente buscando oportunidades de emprego
 <!-- - 📚 Gosto de matemática, circuitos, robôs, piano, filosofia, legos, jogos de exploração/procedurais e outras coisas -->
 <!-- - 💻 Desenvolvedor fullstack com experiência em web, mobile e sistemas embarcados -->
@@ -23,7 +23,7 @@
 
 ### Tech Stack
 
-**ML & Visão Computacional:** PyTorch, OpenCV, Scikit-Learn, DLib, NumPy, Pandas
+**ML & Visão Computacional:** PyTorch, OpenCV, Scikit-Learn, DLib, NumPy, Pandas, FFmpeg
 
 **Linguagens:** Python, Rust, C/C++, Java, Julia, Haskell, MATLAB
 

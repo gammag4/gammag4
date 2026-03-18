@@ -11,12 +11,12 @@ Computer Vision, Neural Networks, Machine Learning and Image Processing:
   - I also studied various techniques to improve network efficiency, robustness and generalization capability, such as data standardization, normalization, regularization, residual networks, dropout, etc
   - I also studied about using pre-trained networks for specialized tasks with transfer learning or fine tuning
 - Computer vision: I used and studied both traditional machine learning algorithms and some interesting neural networks (CNNs (such as AlexNet, ResNet and VGG-16), NeRFs, Vision Transformers and LVSM)
-- Image processing: I used and studied spatial image filtering using intensity transformations, histograms, and linear filters (e.g. Gaussian filter or other convolutional) and non-linear filters (e.g. bilateral filter), spectral filtering (using filters in the frequency domain), and performed image analysis and feature extraction using other transforms such as wavelets
+- Image/Video processing: I used and studied spatial image filtering using intensity transformations, histograms, and linear filters (e.g. Gaussian filter or other convolutional) and non-linear filters (e.g. bilateral filter), spectral filtering (using filters in the frequency domain), and performed image analysis and feature extraction using other transforms such as wavelets
 - Classical machine learning: I used and studied linear, polynomial and logistic regression, binary classification, KNN, decision trees, ensemble learning algorithms such as random forests or boosted trees, I used clustering algorithms such as K-means clustering and DBSCAN, dimensionality reduction algorithms such as PCA, and meta-heuristic algorithms such as simulated annealing
 - Main problems: Object/face/gesture detection, facial recognition, OCR, clustering, classification, regression, dimensionality reduction, 3D novel view synthesis
 - Main technologies:
   - Neural Networks: PyTorch and TensorFlow Keras in Python, both for creating models and for modifying existing models
-  - Computer vision/image processing: OpenCV, DLib and PyTorch in Python
+  - Computer vision/image processing: OpenCV, DLib and PyTorch in Python, FFmpeg
   - Machine Learning: Scikit-Learn in Python and other libraries that implement algorithms on top of it
   - Other: NumPy, SciPy, Pandas
 

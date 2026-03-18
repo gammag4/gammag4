@@ -28,7 +28,7 @@
 <a href="https://www.artstation.com/artwork/3dzme2"><img align="right" width="40%" src="resources/cover.gif" /></a>
 <!-- <img align="right" width="50%" src="resources/canga_cero.gif" /> -->
 
-- 👨🏽‍💻 I am a Neural Networks and Computer Vision developer with strong foundations in math, algorithms and engineering, and a professional learner
+- 👨🏽‍💻 I am a developer specialized in Neural Networks, Computer Vision and Image/Video Processing with strong foundations in math, algorithms and engineering, and a professional learner
 - 🔍 I am currently looking for job opportunities
 <!-- - 📚 I like math, circuits, robots, piano, phylosophy, legos, exploration/procedural games and other stuff -->
 <!-- - 💻 Full-stack developer with experience across web, mobile and embedded systems -->
@@ -37,7 +37,7 @@
 
 ### Tech Stack
 
-**ML & Computer Vision:** PyTorch, OpenCV, Scikit-Learn, DLib, NumPy, Pandas
+**ML & Computer Vision:** PyTorch, OpenCV, Scikit-Learn, DLib, NumPy, Pandas, FFmpeg
 
 **Languages:** Python, Rust, C/C++, Java, Julia, Haskell, MATLAB
 
