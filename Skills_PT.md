@@ -53,7 +53,7 @@ Conhecimentos teóricos em geral:
 - Álgebra linear;
 - Cálculo diferencial e integral de uma e várias variáveis/vetorial;
 - Probabilidade e estatística;
-- Equações diferenciais;
+- Equações diferenciais ordinárias/parciais;
 - Sinais e sistemas;
 - Física (mecânica, termodinâmica, eletromagnetismo, óptica, radioatividade e física quântica);
 - Elétrica (eletromagnetismo), eletrônica e circuitos lógicos;
