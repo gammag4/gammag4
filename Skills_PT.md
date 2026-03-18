@@ -76,9 +76,3 @@ Outros:
 - Tenho experiência com testes em Java (jUnit e Mockito) e testes com corrotinas em Kotlin (jUnit e MockK);
 - Outros conhecimentos: Rust, C, C++, Haskell, Java (Swing e AWT), Electron (JS) e Jenkins;
 - Inglês proficiente, certificado [aqui](https://cert.efset.org/amh3vn).
-
-## Estudando Atualmente
-
-- Álgebra moderna/abstrata (lendo [Vinberg - A Course in Algebra](https://www.amazon.com/Course-Algebra-B-Vinberg/dp/0821834134));
-- Topologia (lendo [Munkres - Topology](https://www.amazon.com/Topology-2nd-James-Munkres/dp/0131816292));
-- Análise (lendo [Rudin - Principles of Mathematical Analysis](https://www.amazon.com/Principles-Mathematical-Analysis-International-Mathematics/dp/007054235X)).
