@@ -38,7 +38,7 @@
 - **Redes Neurais:** CNNs, RNNs, LSTM, Transformers, Autoencoders, NeRF, LVSM
 - **Visão Computacional:** Detecção de objetos/faces/gestos, reconhecimento facial, OCR, classificação de imagens, síntese de novas visualizações 3D
 - **Processamento de Imagens:** Filtragem espacial/espectral, análise de histograma, wavelets, extração de características
-- **Machine Learning:** Regressão, classificação, clusterização, redução de dimensionalidade, métodos ensemble
+- **Machine Learning:** Regressão, classificação, clusterização, redução de dimensionalidade, métodos ensemble, simulated annealing
 - **Matemática:** Álgebra linear, cálculo, probabilidade e estatística, equações diferenciais, sinais e sistemas
 - **Engenharia de Software:** Ágil (XP, Scrum, Kanban), SOLID, Clean Architecture, APIs REST, testes unitários
 

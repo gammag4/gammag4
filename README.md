@@ -52,7 +52,7 @@
 - **Neural Networks:** CNNs, RNNs, LSTM, Transformers, Autoencoders, NeRF, LVSM
 - **Computer Vision:** Object/face/gesture detection, facial recognition, OCR, image classification, 3D novel view synthesis
 - **Image Processing:** Spatial/spectral filtering, histogram analysis, wavelets, feature extraction
-- **Machine Learning:** Regression, classification, clustering, dimensionality reduction, ensemble methods
+- **Machine Learning:** Regression, classification, clustering, dimensionality reduction, ensemble methods, simulated annealing
 - **Math:** Linear algebra, calculus, probability & statistics, differential equations, signals & systems
 - **Software Engineering:** Agile (XP, Scrum, Kanban), SOLID, Clean Architecture, REST APIs, unit testing
 <!-- 
