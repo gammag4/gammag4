@@ -62,5 +62,5 @@ Outros:
 - Tenho experiência com Figma
 - Tenho experiência com testes em Java (jUnit e Mockito) e testes com corrotinas em Kotlin (jUnit e MockK)
 - Outros conhecimentos: Rust, C, C++, Haskell, Java (Swing e AWT), Electron (JS) e Jenkins
-- Experiência em leitura de artigos técnicos, especialmente nas áreas de redes neurais, algoritmos, computação e matemática
+- Experiência com leitura de artigos técnicos, especialmente nas áreas de redes neurais, algoritmos, computação e matemática
 - Inglês proficiente, certificado [aqui](https://cert.efset.org/amh3vn)

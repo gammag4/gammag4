@@ -62,5 +62,5 @@ Other:
 - I have experience with Figma
 - I have experience with testing in Java (jUnit and Mockito) and testing with coroutines in Kotlin (jUnit and MockK)
 - Other knowledge: Rust, C, C++, Haskell, Java (Swing and AWT), Electron (JS) and Jenkins
-- Experience in reading technical papers, especially in the areas of neural networks, algorithms, computing and mathematics
+- Experience with reading technical papers, especially in the areas of neural networks, algorithms, computing and mathematics
 - Proficient English, certificate [here](https://cert.efset.org/amh3vn)
