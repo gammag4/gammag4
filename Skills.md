@@ -56,7 +56,8 @@ Other:
 - I have knowledge of computer networks (layers, protocols, sockets, etc)
 - I have experience with Linux and knowledge of operating system fundamentals
 - I have knowledge of computer architecture
-- I have knowledge of parallel programming on GPUs with CUDA (C, C++) and with threads/tasks/async await on CPU
+- I have experience of parallel programming on GPUs with CUDA (C, C++) and with threads/tasks/async await on CPU
+- I have experience of 3D rendering with OpenGL
 - I have knowledge of Julia (ml algorithms, vectorized operations, multithreading and CUDA)
 - I have knowledge of Arduino programming
 - I have experience with Figma

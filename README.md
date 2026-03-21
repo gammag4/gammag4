@@ -58,7 +58,7 @@
 
 ### Knowledge
 
-- **Neural Networks:** Transformers, CNNs, RNNs, LSTM, Autoencoders, ResNets, NeRF, LVSM
+- **Neural Networks:** Transformers, ViTs, CNNs, RNNs, LSTM, Autoencoders, ResNets, NeRF, LVSM
 - **Computer Vision:** 3D rendering, 3D novel view synthesis, object/face/gesture detection, facial recognition, OCR, image classification
 - **Image Processing:** Spatial/spectral filtering, histogram analysis, feature extraction, wavelets
 - **Machine Learning:** Regression, classification, clustering, dimensionality reduction, ensemble methods, simulated annealing

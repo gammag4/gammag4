@@ -57,6 +57,7 @@ Outros:
 - Tenho experiência com linux e conhecimento de fundamentos de sistemas operacionais
 - Tenho conhecimento de arquitetura de computadores
 - Tenho conhecimento de programação paralela em GPUs com CUDA (C, C++) e com threads/tasks/async await em CPU
+- Tenho experiência com renderização 3D com OpenGL
 - Tenho conhecimento de Julia (algoritmos ml, operações vetorizadas, multithreading e CUDA)
 - Tenho conhecimento de programação para arduino
 - Tenho experiência com Figma
