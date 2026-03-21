@@ -25,8 +25,17 @@
 
 ---
 
-<a href="https://www.artstation.com/artwork/3dzme2"><img align="right" width="40%" src="resources/cover.gif" /></a>
-<!-- <img align="right" width="50%" src="resources/canga_cero.gif" /> -->
+<!-- <a href="https://www.artstation.com/artwork/3dzme2"><img align="right" width="40%" src="resources/cover.gif" /></a> -->
+
+<div align="right" width="30%">
+
+*3D Novel View Synthesis renderer*
+<br />
+  <a href="https://github.com/gammag4/pytorch_nvs_renderer">
+    <img src="resources/nvs.gif" align="right" width="30%" />
+  </a>
+</div>
+<!-- <img align="right" width="30%" src="resources/canga_cero.gif" /> -->
 
 - 👨🏽‍💻 I am a developer specialized in Neural Networks, Computer Vision and Image/Video Processing with strong foundations in math, algorithms and engineering, and a professional learner
 - 🔍 I am currently looking for job opportunities

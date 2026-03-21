@@ -11,8 +11,17 @@
 
 ---
 
-<a href="https://www.artstation.com/artwork/3dzme2"><img align="right" width="40%" src="resources/cover.gif" /></a>
-<!-- <img align="right" width="50%" src="resources/canga_cero.gif" /> -->
+<!-- <a href="https://www.artstation.com/artwork/3dzme2"><img align="right" width="40%" src="resources/cover.gif" /></a> -->
+
+<div align="right" width="30%">
+
+*3D Novel View Synthesis renderer*
+<br />
+  <a href="https://github.com/gammag4/pytorch_nvs_renderer">
+    <img src="resources/nvs.gif" align="right" width="30%" />
+  </a>
+</div>
+<!-- <img align="right" width="30%" src="resources/canga_cero.gif" /> -->
 
 - 👨‍💻 Sou um desenvolvedor especializado em Redes Neurais, Visão Computacional e Processamento de Imagens/Vídeo com forte base em matemática, algoritmos e engenharia, e sou um autodidata profissional
 - 🔍 Atualmente buscando oportunidades de emprego
