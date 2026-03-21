@@ -40,16 +40,16 @@
 
 **Mobile:** Android (Kotlin), Flutter
 
-**Outros:** Docker, Git, Linux, CUDA, Arduino
+**Outros:** CUDA, OpenGL, Docker, Git, Linux, Arduino, 3D/2D GameDev, Geração Procedural
 
 ### Conhecimentos
 
-- **Redes Neurais:** CNNs, RNNs, LSTM, Transformers, Autoencoders, NeRF, LVSM
-- **Visão Computacional:** Detecção de objetos/faces/gestos, reconhecimento facial, OCR, classificação de imagens, síntese de novas visualizações 3D
-- **Processamento de Imagens:** Filtragem espacial/espectral, análise de histograma, wavelets, extração de características
+- **Redes Neurais:** Transformers, CNNs, RNNs, LSTM, Autoencoders, ResNets, NeRF, LVSM
+- **Visão Computacional:** 3D rendering, 3D novel view synthesis, detecção de objetos/faces/gestos, reconhecimento facial, OCR, classificação de imagens
+- **Processamento de Imagens:** Filtragem espacial/espectral, análise de histograma, extração de características, wavelets
 - **Machine Learning:** Regressão, classificação, clusterização, redução de dimensionalidade, métodos ensemble, simulated annealing
 - **Matemática:** Álgebra linear, cálculo, probabilidade e estatística, equações diferenciais, sinais e sistemas
-- **Engenharia de Software:** Ágil (XP, Scrum, Kanban), SOLID, Clean Architecture, APIs REST, testes unitários
+- **Engenharia de Software:** Ágil (XP, Scrum, Kanban), SOLID, Clean, APIs REST, testes unitários
 
 ---
 

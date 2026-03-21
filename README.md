@@ -54,17 +54,17 @@
 
 **Mobile:** Android (Kotlin), Flutter
 
-**Other:** Docker, Git, Linux, CUDA, Arduino
+**Other:** CUDA, OpenGL, Docker, Git, Linux, Arduino, 3D/2D GameDev, Procedural Generation
 
 ### Knowledge
 
-- **Neural Networks:** CNNs, RNNs, LSTM, Transformers, Autoencoders, NeRF, LVSM
-- **Computer Vision:** Object/face/gesture detection, facial recognition, OCR, image classification, 3D novel view synthesis
-- **Image Processing:** Spatial/spectral filtering, histogram analysis, wavelets, feature extraction
+- **Neural Networks:** Transformers, CNNs, RNNs, LSTM, Autoencoders, ResNets, NeRF, LVSM
+- **Computer Vision:** 3D rendering, 3D novel view synthesis, object/face/gesture detection, facial recognition, OCR, image classification
+- **Image Processing:** Spatial/spectral filtering, histogram analysis, feature extraction, wavelets
 - **Machine Learning:** Regression, classification, clustering, dimensionality reduction, ensemble methods, simulated annealing
 - **Math:** Linear algebra, calculus, probability & statistics, differential equations, signals & systems
-- **Software Engineering:** Agile (XP, Scrum, Kanban), SOLID, Clean Architecture, REST APIs, unit testing
-<!-- 
+- **Software Engineering:** Agile (XP, Scrum, Kanban), SOLID, Clean, REST APIs, unit testing
+<!--
 ## Estudando Atualmente
 
 - Control Theory, with focus on state-space representation of linearized systems;
