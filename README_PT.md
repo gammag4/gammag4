@@ -45,7 +45,7 @@
 ### Conhecimentos
 
 - **Redes Neurais:** Transformers, ViTs, CNNs, RNNs, LSTM, Autoencoders, ResNets, NeRF, LVSM
-- **Visão Computacional:** 3D rendering, 3D novel view synthesis, detecção de objetos/faces/gestos, reconhecimento facial, OCR, classificação de imagens
+- **Visão Computacional:** 3D rendering, 3D novel view synthesis, detecção de objetos/faces/gestos, reconhecimento facial, classificação de imagens<!--, OCR-->
 - **Processamento de Imagens:** Filtragem espacial/espectral, análise de histograma, extração de características, wavelets
 - **Machine Learning:** Regressão, classificação, clusterização, redução de dimensionalidade, métodos ensemble, simulated annealing
 - **Matemática:** Álgebra linear, cálculo, probabilidade e estatística, equações diferenciais, sinais e sistemas

@@ -2,7 +2,7 @@
 
 | English | [Português](Skills_PT.md) |
 
-I am Gabriel Maia Gondim, a Software Engineering student at the Federal University of Ceará<!-- , and I am seeking to enter the field of computer vision -->. Here I detail a bit of everything I have studied and used, whether in academic projects or extracurricular activities.
+<!-- I am Gabriel Maia Gondim, a Software Engineering student at the Federal University of Ceará, and I am seeking to enter the field of computer vision. Here I detail a bit of everything I have studied and used, whether in academic projects or extracurricular activities. -->
 
 Computer Vision, Neural Networks, Machine Learning and Image Processing:
 
@@ -16,8 +16,8 @@ Computer Vision, Neural Networks, Machine Learning and Image Processing:
 - Main problems: Object/face/gesture detection, facial recognition, OCR, clustering, classification, regression, dimensionality reduction, 3D novel view synthesis
 - Main technologies:
   - Neural Networks: PyTorch and TensorFlow Keras in Python, both for creating models and for modifying existing models
-  - Computer vision/image processing: OpenCV, DLib and PyTorch in Python, FFmpeg
-  - Machine Learning: Scikit-Learn in Python and other libraries that implement algorithms on top of it
+  - Computer vision/image processing: OpenCV, DLib and PyTorch in Python, FFmpeg, MATLAB
+  - Machine Learning: Scikit-Learn in Python and other libraries that implement algorithms on top of it, Julia (simulated annealing, vectorized operations, multithreading and CUDA)
   - Other: NumPy, SciPy, Pandas
 
 Data storage and processing:
@@ -56,9 +56,8 @@ Other:
 - I have knowledge of computer networks (layers, protocols, sockets, etc)
 - I have experience with Linux and knowledge of operating system fundamentals
 - I have knowledge of computer architecture
-- I have experience of parallel programming on GPUs with CUDA (C, C++) and with threads/tasks/async await on CPU
-- I have experience of 3D rendering with OpenGL
-- I have knowledge of Julia (ml algorithms, vectorized operations, multithreading and CUDA)
+- I have experience with parallel programming on GPUs with CUDA (C, C++) and with threads/tasks/async await on CPU
+- I have experience with 3D rendering with OpenGL
 - I have knowledge of Arduino programming
 - I have experience with Figma
 - I have experience with testing in Java (jUnit and Mockito) and testing with coroutines in Kotlin (jUnit and MockK)

@@ -2,7 +2,7 @@
 
 | [English](Skills.md) | Português |
 
-Sou Gabriel Maia Gondim, estou cursando Engenharia de Software na Universidade Federal do Ceará<!-- , e estou buscando ingressar na área de visão computacional -->. Aqui detalho um pouco de tudo que estudei e usei, seja em projetos da faculdade ou extra-curriculares.
+<!-- Sou Gabriel Maia Gondim, estou cursando Engenharia de Software na Universidade Federal do Ceará, e estou buscando ingressar na área de visão computacional. Aqui detalho um pouco de tudo que estudei e usei, seja em projetos da faculdade ou extra-curriculares. -->
 
 Visão Computacional, Redes Neurais, Aprendizado de Máquina e Processamento de Imagens:
 
@@ -16,8 +16,8 @@ Visão Computacional, Redes Neurais, Aprendizado de Máquina e Processamento de 
 - Problemas principais: Detecção de objetos/faces/gestos, reconhecimento facial, OCR, clustering, classificação, regressão, redução de dimensionalidade, 3D novel view synthesis
 - Tecnologias principais:
   - Redes Neurais: PyTorch e TensorFlow Keras em Python, tanto para criar modelos quanto para modificar modelos existentes
-  - Visão computacional/processamento de imagens: OpenCV, DLib e PyTorch em Python, FFmpeg
-  - Aprendizado de Máquina: Scikit-Learn em Python e outras bibliotecas que implementam algoritmos no topo desta
+  - Visão computacional/processamento de imagens: OpenCV, DLib e PyTorch em Python, FFmpeg, MATLAB
+  - Aprendizado de Máquina: Scikit-Learn em Python e outras bibliotecas que implementam algoritmos no topo desta, Julia (simulated annealing, operações vetorizadas, multithreading e CUDA)
   - Outras: NumPy, SciPy, Pandas
 
 Armazenamento e tratamento de dados:
@@ -58,7 +58,6 @@ Outros:
 - Tenho conhecimento de arquitetura de computadores
 - Tenho conhecimento de programação paralela em GPUs com CUDA (C, C++) e com threads/tasks/async await em CPU
 - Tenho experiência com renderização 3D com OpenGL
-- Tenho conhecimento de Julia (algoritmos ml, operações vetorizadas, multithreading e CUDA)
 - Tenho conhecimento de programação para arduino
 - Tenho experiência com Figma
 - Tenho experiência com testes em Java (jUnit e Mockito) e testes com corrotinas em Kotlin (jUnit e MockK)
