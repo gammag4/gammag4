@@ -37,8 +37,8 @@
 </div>
 <!-- <img align="right" width="30%" src="resources/canga_cero.gif" /> -->
 
-- 👨🏽‍💻 I am a developer specialized in Neural Networks, Computer Vision and Image/Video Processing with strong foundations in math, algorithms and engineering, and a professional learner
-- 🔍 I am currently looking for job opportunities
+- 👨🏽‍💻 **Machine Learning** and **Computer Vision** engineer with focus in **Neural Networks** <!--and **Robotics**--> with strong background in math, algorithms and engineering.
+- 🔍 **Seeking** for opportunities to apply my skills in **CV/ML<!--/Robotics-->** roles where I can contribute to real-world applications.
 <!-- - 📚 I like math, circuits, robots, piano, phylosophy, legos, exploration/procedural games and other stuff -->
 <!-- - 💻 Full-stack developer with experience across web, mobile and embedded systems -->
 

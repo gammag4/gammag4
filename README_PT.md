@@ -23,8 +23,8 @@
 </div>
 <!-- <img align="right" width="30%" src="resources/canga_cero.gif" /> -->
 
-- 👨‍💻 Sou um desenvolvedor especializado em Redes Neurais, Visão Computacional e Processamento de Imagens/Vídeo com forte base em matemática, algoritmos e engenharia, e sou um autodidata profissional
-- 🔍 Atualmente buscando oportunidades de emprego
+- 👨‍💻 Engenheiro de **Machine Learning** e **Visão Computacional** com foco em **Redes Neurais** <!--e **Robótica**--> com forte background em matemática, algoritmos e engenharia.
+- 🔍 **Buscando** oportunidades de aplicar minhas habilidades em funções de **CV/ML<!--/Robótica-->** onde possa contribuir para aplicações do mundo real.
 <!-- - 📚 Gosto de matemática, circuitos, robôs, piano, filosofia, legos, jogos de exploração/procedurais e outras coisas -->
 <!-- - 💻 Desenvolvedor fullstack com experiência em web, mobile e sistemas embarcados -->
 
