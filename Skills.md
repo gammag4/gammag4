@@ -2,6 +2,8 @@
 
 | English | [Português](Skills_PT.md) |
 
+(This list is not up to date)
+
 <!-- I am Gabriel Maia Gondim, a Software Engineering student at the Federal University of Ceará, and I am seeking to enter the field of computer vision. Here I detail a bit of everything I have studied and used, whether in academic projects or extracurricular activities. -->
 
 Computer Vision, Neural Networks, Machine Learning and Image Processing:

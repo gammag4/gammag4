@@ -2,6 +2,8 @@
 
 | [English](Skills.md) | Português |
 
+(Essa lista está desatualizada)
+
 <!-- Sou Gabriel Maia Gondim, estou cursando Engenharia de Software na Universidade Federal do Ceará, e estou buscando ingressar na área de visão computacional. Aqui detalho um pouco de tudo que estudei e usei, seja em projetos da faculdade ou extra-curriculares. -->
 
 Visão Computacional, Redes Neurais, Aprendizado de Máquina e Processamento de Imagens:
