@@ -54,6 +54,6 @@
 ---
 
 <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=gammag4&show_icons=true&theme=dark" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gammag4&layout=compact&theme=dark&langs_count=20" />
+  <img align="left" src="./resources/stats.svg" />
+  <img align="right" src="./resources/top-langs.svg" />
 </div>
