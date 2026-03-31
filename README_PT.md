@@ -34,21 +34,25 @@
 
 **ML & Visão Computacional:** PyTorch, OpenCV, Scikit-Learn, DLib, NumPy, Pandas, FFmpeg
 
-**Linguagens:** Python, Rust, C/C++, Java, Julia, Haskell, MATLAB
+**Linguagens:** Python, Rust, C/C++, Julia, Haskell, MATLAB
 
-**Web:** React, Next.js, Express, Django, Spring Boot, ASP.NET Core
+<!-- **Web:** React, Next.js, Express, Django, Spring Boot, ASP.NET Core
 
-**Mobile:** Android (Kotlin), Flutter
+**Mobile:** Android, Flutter
 
-**Outros:** CUDA, OpenGL, Docker, Git, Linux, Arduino, 3D/2D GameDev, Geração Procedural
+**GameDev:** Unity, Godot -->
+
+**Outros:** CUDA, OpenGL, Docker, Git, Linux, Arduino
 
 ### Conhecimentos
 
 - **Redes Neurais:** Transformers, ViTs, CNNs, RNNs, LSTM, Autoencoders, ResNets, NeRF, LVSM
-- **Visão Computacional:** 3D rendering, 3D novel view synthesis, detecção de objetos/faces/gestos, reconhecimento facial, classificação de imagens<!--, OCR-->
+- **Visão Computacional:** 3D novel view synthesis, detecção de objetos/faces/gestos, reconhecimento facial, classificação de imagens<!--, OCR-->
 - **Processamento de Imagens:** Filtragem espacial/espectral, análise de histograma, extração de características, wavelets
 - **Machine Learning:** Regressão, classificação, clusterização, redução de dimensionalidade, métodos ensemble, simulated annealing
 - **Matemática:** Álgebra linear, cálculo, probabilidade e estatística, equações diferenciais, sinais e sistemas
+- **Simulação:** Renderização 3D
+<!-- - **GameDev:** AI, Geração Procedural -->
 - **Engenharia de Software:** Ágil (XP, Scrum, Kanban), SOLID, Clean, APIs REST, testes unitários
 
 ---

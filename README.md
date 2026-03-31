@@ -48,21 +48,25 @@
 
 **ML & Computer Vision:** PyTorch, OpenCV, Scikit-Learn, DLib, NumPy, Pandas, FFmpeg
 
-**Languages:** Python, Rust, C/C++, Java, Julia, Haskell, MATLAB
+**Languages:** Python, Rust, C/C++, Julia, Haskell, MATLAB, Java, Kotlin
 
-**Web:** React, Next.js, Express, Django, Spring Boot, ASP.NET Core
+<!-- **Web:** React, Next.js, Express, Django, Spring Boot, ASP.NET Core
 
-**Mobile:** Android (Kotlin), Flutter
+**Mobile:** Android, Flutter
 
-**Other:** CUDA, OpenGL, Docker, Git, Linux, Arduino, 3D/2D GameDev, Procedural Generation
+**GameDev:** Unity, Godot -->
+
+**Other:** CUDA, OpenGL, Docker, Git, Linux, Arduino
 
 ### Knowledge
 
 - **Neural Networks:** Transformers, ViTs, CNNs, RNNs, LSTM, Autoencoders, ResNets, NeRF, LVSM
-- **Computer Vision:** 3D rendering, 3D novel view synthesis, object/face/gesture detection, facial recognition, image classification<!--, OCR-->
+- **Computer Vision:** 3D novel view synthesis, object/face/gesture detection, facial recognition, image classification<!--, OCR-->
 - **Image Processing:** Spatial/spectral filtering, histogram analysis, feature extraction, wavelets
 - **Machine Learning:** Regression, classification, clustering, dimensionality reduction, ensemble methods, simulated annealing
 - **Math:** Linear algebra, calculus, probability & statistics, differential equations, signals & systems
+- **Simulation:** 3D rendering
+<!-- - **3D/GameDev:** AI, Procedural Generation -->
 - **Software Engineering:** Agile (XP, Scrum, Kanban), SOLID, Clean, REST APIs, unit testing
 <!--
 ## Estudando Atualmente
