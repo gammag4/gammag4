@@ -17,7 +17,7 @@
 
 *3D Novel View Synthesis renderer*
 <br />
-  <a href="https://github.com/gammag4/pytorch_nvs_renderer">
+  <a href="https://github.com/gammag4/nvs_renderer">
     <img src="resources/nvs.gif" align="right" width="30%" />
   </a>
 </div>
@@ -32,7 +32,7 @@
 
 ### Tech Stack
 
-**ML & Visão Computacional:** PyTorch, OpenCV, Scikit-Learn, DLib, NumPy, Pandas, FFmpeg
+**ML & Visão Computacional:** PyTorch, OpenCV, Scikit-Learn, DLib, NumPy, Pandas, SciPy, Wandb, FFmpeg
 
 **Linguagens:** Python, Rust, C/C++, Julia, Haskell, MATLAB
 
@@ -47,7 +47,7 @@
 ### Conhecimentos
 
 - **Redes Neurais:** Transformers, ViTs, CNNs, RNNs, LSTM, Autoencoders, ResNets, NeRF, LVSM
-- **Visão Computacional:** 3D novel view synthesis, detecção de objetos/faces/gestos, reconhecimento facial, classificação de imagens<!--, OCR-->
+- **Visão Computacional:** 3D novel view synthesis, renderização neural baseada em Transformers, detecção de objetos/faces/gestos, reconhecimento facial, classificação de imagens<!--, OCR-->
 - **Processamento de Imagens:** Filtragem espacial/espectral, análise de histograma, extração de características, wavelets
 - **Machine Learning:** Regressão, classificação, clusterização, redução de dimensionalidade, métodos ensemble, simulated annealing
 - **Matemática:** Álgebra linear, cálculo, probabilidade e estatística, equações diferenciais, sinais e sistemas

@@ -31,7 +31,7 @@
 
 *3D Novel View Synthesis renderer*
 <br />
-  <a href="https://github.com/gammag4/pytorch_nvs_renderer">
+  <a href="https://github.com/gammag4/nvs_renderer">
     <img src="resources/nvs.gif" align="right" width="30%" />
   </a>
 </div>
@@ -46,7 +46,7 @@
 
 ### Tech Stack
 
-**ML & Computer Vision:** PyTorch, OpenCV, Scikit-Learn, DLib, NumPy, Pandas, FFmpeg
+**ML & Computer Vision:** PyTorch, OpenCV, Scikit-Learn, DLib, NumPy, Pandas, SciPy, Wandb, FFmpeg
 
 **Languages:** Python, Rust, C/C++, Julia, Haskell, MATLAB, Java, Kotlin
 
@@ -61,7 +61,7 @@
 ### Knowledge
 
 - **Neural Networks:** Transformers, ViTs, CNNs, RNNs, LSTM, Autoencoders, ResNets, NeRF, LVSM
-- **Computer Vision:** 3D novel view synthesis, object/face/gesture detection, facial recognition, image classification<!--, OCR-->
+- **Computer Vision:** 3D novel view synthesis, Transformer-based neural rendering, object/face/gesture detection, facial recognition, image classification<!--, OCR-->
 - **Image Processing:** Spatial/spectral filtering, histogram analysis, feature extraction, wavelets
 - **Machine Learning:** Regression, classification, clustering, dimensionality reduction, ensemble methods, simulated annealing
 - **Math:** Linear algebra, calculus, probability & statistics, differential equations, signals & systems
@@ -93,7 +93,7 @@
 
 <!-- |||
 |:---:|:---:|
-| ![DVST Pin](https://github-readme-stats.vercel.app/api/pin/?username=gammag4&repo=dvst&theme=dark&description_lines_count=3) | a ... <br> Usei uma imagem docker separada, que está [aqui](https://github.com/gammag4/nn-image) |
+| ![VDST Pin](https://github-readme-stats.vercel.app/api/pin/?username=gammag4&repo=vdst&theme=dark&description_lines_count=3) | a ... <br> Usei uma imagem docker separada, que está [aqui](https://github.com/gammag4/nn-image) |
 | ![Keyboard Layout Optimizer Pin](https://github-readme-stats.vercel.app/api/pin/?username=gammag4&repo=keybLayoutOptimizer&theme=dark&description_lines_count=3) | a |
 | ![Pistoleiro Paco Pin](https://github-readme-stats.vercel.app/api/pin/?username=gammag4&repo=PistoleiroPaco&theme=dark&description_lines_count=3) | a |
 | ![New Home Pin](https://github-readme-stats.vercel.app/api/pin/?username=gammag4&repo=NewHome&theme=dark&description_lines_count=3) | a |
@@ -103,7 +103,7 @@
 
 <!-- 
 <div>
-  <a href="https://github.com/gammag4/dvst"><img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=gammag4&repo=dvst&theme=dark&description_lines_count=3"></a>
+  <a href="https://github.com/gammag4/vdst"><img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=gammag4&repo=vdst&theme=dark&description_lines_count=3"></a>
   <a href="https://github.com/gammag4/nn-image"><img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=gammag4&repo=nn-image&theme=dark&description_lines_count=3"></a>
 
   <a href="https://github.com/gammag4/keybLayoutOptimizer"><img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=gammag4&repo=keybLayoutOptimizer&theme=dark&description_lines_count=3"></a>
@@ -122,7 +122,7 @@
 
 |||
 |:---:|:---:|
-| ![DVST Pin](./resources/pin-dvst.svg) | ![NN Image Pin](./resources/pin-nn-image.svg) |
+| ![VDST Pin](./resources/pin-vdst.svg) | ![NN Image Pin](./resources/pin-nn-image.svg) |
 | ![Keyboard Layout Optimizer Pin](./resources/pin-keybLayoutOptimizer.svg) | ![Pistoleiro Paco Pin](./resources/pin-PistoleiroPaco.svg) |
 | ![New Home Pin](./resources/pin-NewHome.svg) | ![Cuscuz Bane Pin](./resources/pin-CuscuzBane.svg) |
 | ![Trabalho ML 2023 Pin](./resources/pin-trabalho-ml2023.svg) | ![Disciplina ML 2023 Pin](./resources/pin-ML2023-GabrielMaiaGondim.svg) | -->

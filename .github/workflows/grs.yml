@@ -87,12 +87,12 @@ jobs:
       #     path: resources/pin-nn-image.svg
       #     token: ${{ secrets.GITHUB_TOKEN }}
 
-      # - name: Generate dvst pin card
+      # - name: Generate vdst pin card
       #   uses: readme-tools/github-readme-stats-action@v1
       #   with:
       #     card: pin
-      #     options: username=gammag4&repo=dvst&theme=dark&description_lines_count=3
-      #     path: resources/pin-dvst.svg
+      #     options: username=gammag4&repo=vdst&theme=dark&description_lines_count=3
+      #     path: resources/pin-vdst.svg
       #     token: ${{ secrets.GITHUB_TOKEN }}
 
       # - name: Generate pin card
