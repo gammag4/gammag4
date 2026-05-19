@@ -93,7 +93,7 @@
 
 <!-- |||
 |:---:|:---:|
-| ![VDST Pin](https://github-readme-stats.vercel.app/api/pin/?username=gammag4&repo=vdst&theme=dark&description_lines_count=3) | a ... <br> Usei uma imagem docker separada, que está [aqui](https://github.com/gammag4/nn-image) |
+| ![VDST Pin](https://github-readme-stats.vercel.app/api/pin/?username=gammag4&repo=vdst&theme=dark&description_lines_count=3) | a |
 | ![Keyboard Layout Optimizer Pin](https://github-readme-stats.vercel.app/api/pin/?username=gammag4&repo=keybLayoutOptimizer&theme=dark&description_lines_count=3) | a |
 | ![Pistoleiro Paco Pin](https://github-readme-stats.vercel.app/api/pin/?username=gammag4&repo=PistoleiroPaco&theme=dark&description_lines_count=3) | a |
 | ![New Home Pin](https://github-readme-stats.vercel.app/api/pin/?username=gammag4&repo=NewHome&theme=dark&description_lines_count=3) | a |
@@ -104,7 +104,7 @@
 <!-- 
 <div>
   <a href="https://github.com/gammag4/vdst"><img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=gammag4&repo=vdst&theme=dark&description_lines_count=3"></a>
-  <a href="https://github.com/gammag4/nn-image"><img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=gammag4&repo=nn-image&theme=dark&description_lines_count=3"></a>
+  <a href="https://github.com/gammag4/nvs_renderer"><img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=gammag4&repo=nvs_renderer&theme=dark&description_lines_count=3"></a>
 
   <a href="https://github.com/gammag4/keybLayoutOptimizer"><img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=gammag4&repo=keybLayoutOptimizer&theme=dark&description_lines_count=3"></a>
   <a href="https://github.com/gammag4/PistoleiroPaco"><img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=gammag4&repo=PistoleiroPaco&theme=dark&description_lines_count=3"></a>
@@ -122,7 +122,7 @@
 
 |||
 |:---:|:---:|
-| ![VDST Pin](./resources/pin-vdst.svg) | ![NN Image Pin](./resources/pin-nn-image.svg) |
+| ![VDST Pin](./resources/pin-vdst.svg) | ![NN Image Pin](./resources/pin-nvs_renderer.svg) |
 | ![Keyboard Layout Optimizer Pin](./resources/pin-keybLayoutOptimizer.svg) | ![Pistoleiro Paco Pin](./resources/pin-PistoleiroPaco.svg) |
 | ![New Home Pin](./resources/pin-NewHome.svg) | ![Cuscuz Bane Pin](./resources/pin-CuscuzBane.svg) |
 | ![Trabalho ML 2023 Pin](./resources/pin-trabalho-ml2023.svg) | ![Disciplina ML 2023 Pin](./resources/pin-ML2023-GabrielMaiaGondim.svg) | -->

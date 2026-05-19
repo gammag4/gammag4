@@ -79,12 +79,12 @@ jobs:
       #     path: resources/pin-keybLayoutOptimizer.svg
       #     token: ${{ secrets.GITHUB_TOKEN }}
 
-      # - name: Generate nn-image pin card
+      # - name: Generate nvs_renderer pin card
       #   uses: readme-tools/github-readme-stats-action@v1
       #   with:
       #     card: pin
-      #     options: username=gammag4&repo=nn-image&theme=dark&description_lines_count=3
-      #     path: resources/pin-nn-image.svg
+      #     options: username=gammag4&repo=nvs_renderer&theme=dark&description_lines_count=3
+      #     path: resources/pin-nvs_renderer.svg
       #     token: ${{ secrets.GITHUB_TOKEN }}
 
       # - name: Generate vdst pin card
