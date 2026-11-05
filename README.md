@@ -89,10 +89,10 @@
 
 ---
 
-<div>
+<!-- <div>
   <img align="left" src="./resources/stats.svg" />
   <img align="right" src="./resources/top-langs.svg" />
-</div>
+</div> -->
 
 <!-- |||
 |:---:|:---:|
