@@ -34,7 +34,9 @@
 
 **ML & Visão Computacional:** PyTorch, OpenCV, Scikit-Learn, DLib, NumPy, Pandas, SciPy, Wandb, FFmpeg
 
-**Linguagens:** Python, Rust, C/C++, Julia, Haskell, MATLAB
+**Robótica**: ROS2, Gazebo, RTAB-Map, Nvblox, FreeCAD
+
+**Linguagens:** Python, C/C++, Rust, Julia, Haskell, MATLAB, Java, Kotlin
 
 <!-- **Web:** React, Next.js, Express, Django, Spring Boot, ASP.NET Core
 
@@ -47,12 +49,12 @@
 ### Conhecimentos
 
 - **Redes Neurais:** Transformers, ViTs, CNNs, RNNs, LSTM, Autoencoders, ResNets, NeRF, LVSM
-- **Visão Computacional:** 3D novel view synthesis, renderização neural baseada em Transformers, detecção de objetos/faces/gestos, reconhecimento facial, classificação de imagens<!--, OCR-->
-- **Processamento de Imagens:** Filtragem espacial/espectral, análise de histograma, extração de características, wavelets
-- **Machine Learning:** Regressão, classificação, clusterização, redução de dimensionalidade, métodos ensemble, simulated annealing
-- **Matemática:** Álgebra linear, cálculo, probabilidade e estatística, equações diferenciais, sinais e sistemas
-- **Simulação:** Renderização 3D
-<!-- - **GameDev:** AI, Geração Procedural -->
+- **Visão Computacional:** 3D Novel View Synthesis, Renderização Neural Baseada em Transformers, Detecção de Objetos/Faces/Gestos, Reconhecimento Facial, Classificação de Imagens<!--, OCR-->
+- **Robótica**: Simulação de Robôs, SLAM, Pathfinding, Reconstrução 3D
+- **Processamento de Imagens:** Filtragem Espacial/Espectral, Análise de Histograma, Extração de Características, Wavelets
+- **Machine Learning:** Regressão, Classificação, Clusterização, Redução de Dimensionalidade, Métodos Ensemble, Simulated Annealing
+- **Matemática:** Otimização Matemática, Teoria do Controle Ótimo não-Linear, Álgebra Linear, Cálculo, Probabilidade e Estatística, Equações Diferenciais, Sinais e Sistemas
+- **GameDev/Simulação/Renderização:** Renderização 3D, Geração Procedural, AI
 - **Engenharia de Software:** Ágil (XP, Scrum, Kanban), SOLID, Clean, APIs REST, testes unitários
 
 ---

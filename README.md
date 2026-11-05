@@ -48,7 +48,9 @@
 
 **ML & Computer Vision:** PyTorch, OpenCV, Scikit-Learn, DLib, NumPy, Pandas, SciPy, Wandb, FFmpeg
 
-**Languages:** Python, Rust, C/C++, Julia, Haskell, MATLAB, Java, Kotlin
+**Robotics**: ROS2, Gazebo, RTAB-Map, Nvblox, FreeCAD
+
+**Languages:** Python, C/C++, Rust, Julia, Haskell, MATLAB, Java, Kotlin
 
 <!-- **Web:** React, Next.js, Express, Django, Spring Boot, ASP.NET Core
 
@@ -61,12 +63,12 @@
 ### Knowledge
 
 - **Neural Networks:** Transformers, ViTs, CNNs, RNNs, LSTM, Autoencoders, ResNets, NeRF, LVSM
-- **Computer Vision:** 3D novel view synthesis, Transformer-based neural rendering, object/face/gesture detection, facial recognition, image classification<!--, OCR-->
-- **Image Processing:** Spatial/spectral filtering, histogram analysis, feature extraction, wavelets
-- **Machine Learning:** Regression, classification, clustering, dimensionality reduction, ensemble methods, simulated annealing
-- **Math:** Linear algebra, calculus, probability & statistics, differential equations, signals & systems
-- **Simulation:** 3D rendering
-<!-- - **3D/GameDev:** AI, Procedural Generation -->
+- **Computer Vision:** 3D Novel View Synthesis, Transformer-based Neural Rendering, Object/Face/Gesture Detection, Facial Recognition, Image Classification<!--, OCR-->
+- **Robotics**: Robot Simulation, SLAM, Pathfinding, 3D Reconstruction
+- **Image Processing:** Spatial/Spectral Filtering, Histogram Analysis, Feature Extraction, Wavelets
+- **Machine Learning:** Regression, Classification, Clustering, Dimensionality Reduction, Ensemble Methods, Simulated Annealing
+- **Math:** Mathematical Optimization, Nonlinear Optimal Control Theory, Linear Algebra, Calculus, Probability & Statistics, Differential Equations, Signals & Systems
+- **GameDev/Simulation/Rendering:** 3D Rendering, Procedural Generation, AI
 - **Software Engineering:** Agile (XP, Scrum, Kanban), SOLID, Clean, REST APIs, unit testing
 <!--
 ## Estudando Atualmente
@@ -74,7 +76,8 @@
 - Control Theory, with focus on state-space representation of linearized systems;
 - Álgebra moderna/abstrata (lendo [Vinberg - A Course in Algebra](https://www.amazon.com/Course-Algebra-B-Vinberg/dp/0821834134));
 - Topologia (lendo [Munkres - Topology](https://www.amazon.com/Topology-2nd-James-Munkres/dp/0131816292));
-- Análise (lendo [Rudin - Principles of Mathematical Analysis](https://www.amazon.com/Principles-Mathematical-Analysis-International-Mathematics/dp/007054235X)). -->
+- Análise (lendo [Rudin - Principles of Mathematical Analysis](https://www.amazon.com/Principles-Mathematical-Analysis-International-Mathematics/dp/007054235X));
+- Geometria diferencial. -->
 
 <!-- <div align="center">
   <strong>
